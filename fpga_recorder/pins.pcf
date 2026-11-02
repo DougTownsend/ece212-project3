@@ -1,0 +1,26 @@
+set_io clk 20
+
+set_io btn[0] 19
+set_io btn[1] 13
+set_io btn[2] 21
+set_io btn[3] 12
+
+set_io strobe 18
+set_io data 11
+set_io shift_clk 9
+
+set_io sw[0] 6
+set_io sw[1] 44
+set_io sw[2] 4
+set_io sw[3] 3
+set_io sw[4] 48
+set_io sw[5] 45
+set_io sw[6] 47
+set_io sw[7] 46
+
+set_io dac[0] 2
+set_io dac[1] 28
+set_io dac[2] 38
+set_io dac[3] 42
+set_io dac[4] 36
+set_io comp 43
